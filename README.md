@@ -2,4 +2,4 @@
 An E-Learning education platform
 
     Live Link :-
-          https://brainbridge-self.vercel.app/
+            https://brain-bridge-gamma.vercel.app/
